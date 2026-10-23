@@ -1,0 +1,850 @@
+{
+ "sumber": "Diringkas dari laporan kontraktor & arsitek (PT HWG Arsitek) di grup WhatsApp proyek. Terbaru di atas.",
+ "kondisi": {
+  "per_tanggal": "2026-10-22",
+  "area": [
+   {
+    "nama": "Toilet laki-laki",
+    "status": "berjalan",
+    "sekarang": "Tahap pengecatan",
+    "detail": "Keramik dinding selesai 12 Okt, granit bawah 15 Okt · berikutnya pilih warna cat"
+   },
+   {
+    "nama": "Toilet perempuan",
+    "status": "berjalan",
+    "sekarang": "Pemasangan keramik dinding",
+    "detail": "Kelistrikan & pemipaan sudah selesai (6–8 Okt)"
+   },
+   {
+    "nama": "Septic tank & sumur resapan",
+    "status": "selesai",
+    "sekarang": "Selesai, tutup sudah dicor",
+    "detail": "Pipa dari toilet laki-laki sudah tersambung (8 Okt) · paving dirapikan kembali (15 Okt)"
+   },
+   {
+    "nama": "Sumur air bersih",
+    "status": "berjalan",
+    "sekarang": "Sumur sudah ditutup, lanjut bak kontrol",
+    "detail": "Sumber air ditemukan di kedalaman ±8,3 m (22 Sep)"
+   },
+   {
+    "nama": "Ruang santai",
+    "status": "berjalan",
+    "sekarang": "Sudah dibobok",
+    "detail": "Berikutnya pemasangan keramik lantai"
+   },
+   {
+    "nama": "Area tempat wudhu",
+    "status": "berjalan",
+    "sekarang": "Proses galian",
+    "detail": ""
+   },
+   {
+    "nama": "Musholla, dapur & area makan outdoor",
+    "status": "persiapan",
+    "sekarang": "RAB konstruksi sudah direvisi (16 Okt)",
+    "detail": "Lantai musholla direncanakan vinyl"
+   },
+   {
+    "nama": "Interior & furnitur",
+    "status": "persiapan",
+    "sekarang": "Render Interior III (19 Okt)",
+    "detail": "Beberapa ruang kecil masih proses render · granit lantai sudah dipesan (3 Okt)"
+   }
+  ]
+ },
+ "berikutnya_per": "2026-10-22",
+ "berikutnya": [
+  "Memilih warna cat dinding kamar mandi",
+  "Diskusi sekat bertekstur untuk interior",
+  "Memilih keramik lantai ruang santai",
+  "Dari SVO: info rencana CCTV serta internet & LAN (titik CCTV sudah dibuatkan draft)"
+ ],
+ "keputusan": [
+  {
+   "tanggal": "2026-10-16",
+   "isi": "Lantai musholla memakai vinyl",
+   "ket": "Masuk RAB interior; RAB konstruksi baru sampai lantai dasar (rabat beton)."
+  },
+  {
+   "tanggal": "2026-10-10",
+   "isi": "Penyesuaian spesifikasi musholla & area makan",
+   "ket": "Tambah 2 exhaust & 2 kipas plafon, plafon musholla datar, rangka partisi metal stud, ukuran sloof & kedalaman pondasi disesuaikan (sloof 15×20 → 15×15 cm), logo SVO belakang dari HMR finishing duco tanpa lampu. Masuk revisi RAB 16 Okt."
+  },
+  {
+   "tanggal": "2026-10-03",
+   "isi": "Granit lantai doff (mate)",
+   "ket": "Disetujui tim leader, lalu langsung dipesan kontraktor."
+  },
+  {
+   "tanggal": "2026-09-10",
+   "isi": "Sekat toilet memakai PVC board finishing HPL",
+   "ket": "Dipilih menggantikan opsi kaca karena lebih hemat."
+  },
+  {
+   "tanggal": "2026-09-08",
+   "isi": "Tinggi kusen pintu 2 m · pintu depan dipertahankan + rolling door",
+   "ket": "Hasil meeting RAB toilet."
+  },
+  {
+   "tanggal": "2026-08-17",
+   "isi": "Spesifikasi toilet",
+   "ket": "Toilet laki-laki: 3 kloset (1 jongkok), 2 wastafel, 1 urinoir. Toilet perempuan: 3 kloset (1 jongkok), 3 wastafel. Tanpa shower & water heater. Septic tank baru dibuat agar mudah dirawat untuk ±250 orang."
+  }
+ ],
+ "entri": [
+  {
+   "tanggal": "2026-10-22",
+   "judul": "Toilet laki-laki masuk tahap cat",
+   "tahap": "Sipil",
+   "poin": [
+    "Toilet laki-laki sudah masuk tahap pengecatan; berikutnya memilih warna cat dinding.",
+    "Area ruang santai sudah dibobok; berikutnya pemasangan keramik lantai.",
+    "Area tempat wudhu mulai digali."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-22-toilet-laki-laki-masuk-tahap-cat-1",
+     "ket": "Toilet laki-laki: keramik lantai terpasang, masuk tahap cat",
+     "w": 1600,
+     "h": 1204,
+     "src": "00003944"
+    },
+    {
+     "f": "2026-10-22-toilet-laki-laki-masuk-tahap-cat-2",
+     "ket": "Lantai area ruang santai sudah dibobok",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003948"
+    },
+    {
+     "f": "2026-10-22-toilet-laki-laki-masuk-tahap-cat-3",
+     "ket": "Area tempat wudhu dalam proses penggalian",
+     "w": 1600,
+     "h": 1204,
+     "src": "00003952"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-22",
+   "judul": "Sewa kantor & RAB sipil dibayar",
+   "tahap": "Dana",
+   "isi": "Sewa gedung dan RAB pekerjaan sipil dibayar langsung oleh Ahmad Zainal Rauf, tercatat Rp616.000.000 di dana kantor.",
+   "link": "pembayaran",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-10-19",
+   "judul": "Sekat lama dibongkar",
+   "tahap": "Sipil",
+   "poin": [
+    "Sekat lama sudah dibongkar.",
+    "Pengerjaan toilet laki-laki dan perempuan berlanjut."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-19-sekat-lama-dibongkar-1",
+     "ket": "Sekat interior sudah dibongkar",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003912"
+    },
+    {
+     "f": "2026-10-19-sekat-lama-dibongkar-2",
+     "ket": "Ruang dalam setelah sekat dibongkar",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003914"
+    },
+    {
+     "f": "2026-10-19-sekat-lama-dibongkar-3",
+     "ket": "Toilet laki-laki: keramik lantai mulai terpasang",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003918"
+    },
+    {
+     "f": "2026-10-19-sekat-lama-dibongkar-4",
+     "ket": "Toilet perempuan: keramik dinding terpasang, lantai belum",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003922"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-19",
+   "judul": "Render Interior III dikirim",
+   "tahap": "Desain",
+   "isi": "Render ruang-ruang utama sudah jadi (64 render, 23 area); beberapa ruang kecil masih proses render.",
+   "link": "desain",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-10-16",
+   "judul": "Meeting RAB konstruksi musholla, tempat wudhu, dapur & area makan outdoor",
+   "tahap": "RAB",
+   "isi": "RAB direvisi setelah penyesuaian spesifikasi pada 10 Oktober. Lantai musholla direncanakan vinyl dan masuk RAB interior.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-10-15",
+   "judul": "Granit toilet laki-laki & keramik toilet perempuan",
+   "tahap": "Sipil",
+   "poin": [
+    "Toilet laki-laki: pemasangan granit bagian bawah.",
+    "Toilet perempuan: pemasangan keramik dinding.",
+    "Area septic tank & sumur resapan: paving block dirapikan kembali."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-15-granit-toilet-laki-laki-keramik-1",
+     "ket": "Pemasangan keramik lantai toilet laki-laki",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003884"
+    },
+    {
+     "f": "2026-10-15-granit-toilet-laki-laki-keramik-2",
+     "ket": "Progres pemasangan keramik dinding toilet perempuan",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003887"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-13",
+   "judul": "Draft rencana titik CCTV",
+   "tahap": "Desain",
+   "isi": "Arsitek mengirim draft titik CCTV. Rencana CCTV serta internet & LAN masih menunggu info dari SVO.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-10-12",
+   "judul": "Keramik toilet laki-laki selesai",
+   "tahap": "Sipil",
+   "poin": [
+    "Pemasangan keramik toilet laki-laki selesai.",
+    "Mulai pemasangan keramik dinding toilet perempuan.",
+    "Area sumur sudah ditutup; lanjut pembuatan bak kontrol."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-12-keramik-toilet-laki-laki-selesai-1",
+     "ket": "Keramik dinding toilet laki-laki selesai dipasang",
+     "w": 1600,
+     "h": 1204,
+     "src": "00003866"
+    },
+    {
+     "f": "2026-10-12-keramik-toilet-laki-laki-selesai-2",
+     "ket": "Mulai pemasangan keramik dinding toilet perempuan",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003870"
+    },
+    {
+     "f": "2026-10-12-keramik-toilet-laki-laki-selesai-3",
+     "ket": "Area sumur sudah tertutup, proses pembuatan bak kontrol",
+     "w": 1600,
+     "h": 1204,
+     "src": "00003874"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-10",
+   "judul": "Pengecoran area sumur & penyesuaian spesifikasi",
+   "tahap": "Sipil",
+   "poin": [
+    "Area sumur dicor.",
+    "Diskusi penyesuaian spesifikasi musholla dan area makan (lihat Keputusan di bawah)."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-10-pengecoran-area-sumur-penyesuaia-1",
+     "ket": "Dokumentasi pengecoran dasar sumur",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003856"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-09",
+   "judul": "Keramik dinding & plester berlanjut",
+   "tahap": "Sipil",
+   "poin": [
+    "Pemasangan keramik dinding toilet laki-laki.",
+    "Plester area toilet perempuan.",
+    "Penyambungan pipa."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-09-keramik-dinding-plester-berlanju-1",
+     "ket": "Penyambungan pipa antar buis beton sumur resapan",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003844"
+    },
+    {
+     "f": "2026-10-09-keramik-dinding-plester-berlanju-2",
+     "ket": "Pipa PVC tersambung ke buis beton sumur resapan",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003847"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-08",
+   "judul": "Pipa toilet tersambung ke septic tank",
+   "tahap": "Sipil",
+   "poin": [
+    "Pemasangan keramik dinding toilet laki-laki.",
+    "Pemipaan toilet perempuan selesai; lanjut plester lantai dan keramik dinding.",
+    "Pipa dari toilet laki-laki disambung ke septic tank & sumur resapan; septic tank 1 disambung ke septic tank 2.",
+    "Tutup septic tank & sumur resapan sudah dicor."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-08-pipa-toilet-tersambung-ke-septic-1",
+     "ket": "Pemasangan keramik mozaik dinding toilet laki-laki berlanjut",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003812"
+    },
+    {
+     "f": "2026-10-08-pipa-toilet-tersambung-ke-septic-2",
+     "ket": "Plumbing toilet perempuan selesai, lanjut plester lantai",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003816"
+    },
+    {
+     "f": "2026-10-08-pipa-toilet-tersambung-ke-septic-3",
+     "ket": "Penyambungan pipa dari toilet ke septic tank dan resapan",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003820"
+    },
+    {
+     "f": "2026-10-08-pipa-toilet-tersambung-ke-septic-4",
+     "ket": "Penyambungan pipa antar septic tank dan sumur resapan",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003824"
+    },
+    {
+     "f": "2026-10-08-pipa-toilet-tersambung-ke-septic-5",
+     "ket": "Tutup cor septic tank dan sumur resapan sudah siap",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003828"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-07",
+   "judul": "Mulai keramik dinding toilet laki-laki",
+   "tahap": "Sipil",
+   "poin": [
+    "Mulai pemasangan keramik dinding toilet laki-laki.",
+    "Pemipaan toilet perempuan.",
+    "Pemasangan penutup septic tank & sumur resapan."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-07-mulai-keramik-dinding-toilet-lak-1",
+     "ket": "Pemasangan keramik dinding toilet laki-laki dimulai",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003799"
+    },
+    {
+     "f": "2026-10-07-mulai-keramik-dinding-toilet-lak-2",
+     "ket": "Pemipaan toilet perempuan: pipa PVC disiapkan di jalur galian",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003803"
+    },
+    {
+     "f": "2026-10-07-mulai-keramik-dinding-toilet-lak-3",
+     "ket": "Pengecoran tutup septic tank dan sumur resapan",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003807"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-06",
+   "judul": "Septic tank & sumur resapan selesai",
+   "tahap": "Sipil",
+   "poin": [
+    "Toilet laki-laki: pipa dan plafon sudah terpasang, kelistrikan dikerjakan, sore harinya sudah proses plester.",
+    "Toilet perempuan: kelistrikan selesai, lanjut pemipaan.",
+    "Septic tank & sumur resapan selesai, tinggal penyambungan akhir.",
+    "Lubang galian diberi garis pengaman agar aman bagi pengunjung kos di malam hari."
+   ],
+   "foto": [
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-1",
+     "ket": "Perapian plafon gipsum toilet laki-laki",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003768"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-2",
+     "ket": "Pemasangan rangka dan plafon gipsum toilet perempuan",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003769"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-3",
+     "ket": "Tampak depan dua ruang toilet yang sedang dikerjakan",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003770"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-4",
+     "ket": "Pemasangan plafon gipsum dan lampu di toilet perempuan",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003771"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-5",
+     "ket": "Galian septic tank dan sumur resapan dengan buis beton",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003777"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-6",
+     "ket": "Area galian septic tank dipasangi garis pembatas demi keamanan",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003781"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-7",
+     "ket": "Lantai toilet laki-laki sudah diplester",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003789"
+    },
+    {
+     "f": "2026-10-06-septic-tank-sumur-resapan-selesa-8",
+     "ket": "Plafon dan lampu toilet perempuan terpasang, elektrikal selesai",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003794"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-10-02",
+   "judul": "Pemilihan granit lantai",
+   "tahap": "Material",
+   "isi": "Kontraktor meminta persetujuan material. Tim leader menyetujui granit lantai doff (mate), dan material dipesan esok harinya.",
+   "foto": [
+    {
+     "f": "2026-10-02-pemilihan-granit-lantai-1",
+     "ket": "Sampel keramik mozaik putih yang diajukan untuk approval material",
+     "w": 900,
+     "h": 1600,
+     "src": "00003740"
+    },
+    {
+     "f": "2026-10-02-pemilihan-granit-lantai-2",
+     "ket": "Pilihan granit lantai doff; yang kiri paling mendekati desain",
+     "w": 1280,
+     "h": 960,
+     "src": "00003745"
+    },
+    {
+     "f": "2026-10-02-pemilihan-granit-lantai-3",
+     "ket": "Kombinasi sampel granit lantai, mozaik putih, dan teraso",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003748"
+    },
+    {
+     "f": "2026-10-02-pemilihan-granit-lantai-4",
+     "ket": "Simulasi granit lantai abu doff dipadukan keramik mozaik putih",
+     "w": 1600,
+     "h": 900,
+     "src": "00003752"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-26",
+   "judul": "Pemipaan toilet & dinding penyekat diplester",
+   "tahap": "Sipil",
+   "poin": [
+    "Toilet: pemipaan sedang dikerjakan.",
+    "Dinding penyekat toilet masuk tahap plester.",
+    "Galian sudah 3 lubang."
+   ],
+   "foto": [
+    {
+     "f": "2026-09-26-pemipaan-toilet-dinding-penyekat-1",
+     "ket": "Proses pemipaan (plumbing) area toilet",
+     "w": 1600,
+     "h": 2844,
+     "src": "00003727"
+    },
+    {
+     "f": "2026-09-26-pemipaan-toilet-dinding-penyekat-2",
+     "ket": "Dinding penyekat toilet masuk tahap plester",
+     "w": 1600,
+     "h": 2844,
+     "src": "00003728"
+    },
+    {
+     "f": "2026-09-26-pemipaan-toilet-dinding-penyekat-3",
+     "ket": "Pipa mulai dipasang di jalur galian lantai",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003729"
+    },
+    {
+     "f": "2026-09-26-pemipaan-toilet-dinding-penyekat-4",
+     "ket": "Galian 3 lubang di halaman",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003734"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-22",
+   "judul": "Sumur menemukan sumber air",
+   "tahap": "Sipil",
+   "poin": [
+    "Pengerjaan dinding toilet.",
+    "Sumur air bersih sudah menemukan sumber air di kedalaman ±8,3 m.",
+    "Galian saluran ke septic tank, dan dari toilet CEO ke toilet umum (lavatory)."
+   ],
+   "foto": [
+    {
+     "f": "2026-09-22-sumur-menemukan-sumber-air-1",
+     "ket": "Pengerjaan dinding bata area toilet",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003686"
+    },
+    {
+     "f": "2026-09-22-sumur-menemukan-sumber-air-2",
+     "ket": "Sekat dinding bata area toilet mulai terbentuk",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003687"
+    },
+    {
+     "f": "2026-09-22-sumur-menemukan-sumber-air-3",
+     "ket": "Kedalaman sumur 8,28 m, sudah ketemu sumber air",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003689"
+    },
+    {
+     "f": "2026-09-22-sumur-menemukan-sumber-air-4",
+     "ket": "Galian lantai untuk jalur pipa pembuangan",
+     "w": 1200,
+     "h": 1600,
+     "src": "00003694"
+    },
+    {
+     "f": "2026-09-22-sumur-menemukan-sumber-air-5",
+     "ket": "Pembongkaran lantai untuk jalur galian pipa",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003698"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-17",
+   "judul": "Laporan progres 16–17 September",
+   "tahap": "Sipil",
+   "foto": [
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-1",
+     "ket": "Material batu kali, pasir, dan bata di area dalam",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003645"
+    },
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-2",
+     "ket": "Penggalian sumur baru di halaman samping",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003647"
+    },
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-3",
+     "ket": "Teras depan: puing bongkaran dan besi tulangan di lokasi",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003667"
+    },
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-4",
+     "ket": "Bata merah, adukan semen, dan marking di lantai area dalam",
+     "w": 1600,
+     "h": 2844,
+     "src": "00003668"
+    },
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-5",
+     "ket": "Tripod bambu di atas galian sumur, buis beton di sampingnya",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003669"
+    },
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-6",
+     "ket": "Kondisi galian sumur dilihat dari atas",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003670"
+    },
+    {
+     "f": "2026-09-17-laporan-progres-16-17-september-7",
+     "ket": "Galian pondasi area toilet, keramik dinding lama dibobok",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003674"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-15",
+   "judul": "Sanitari datang, galian toilet & septic tank",
+   "tahap": "Sipil",
+   "poin": [
+    "Perlengkapan sanitari sudah datang.",
+    "Galian pondasi toilet.",
+    "Pengerjaan septic tank dan pengacian buis beton."
+   ],
+   "foto": [
+    {
+     "f": "2026-09-15-sanitari-datang-galian-toilet-se-1",
+     "ket": "Material sanitari sudah datang di lokasi",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003614"
+    },
+    {
+     "f": "2026-09-15-sanitari-datang-galian-toilet-se-2",
+     "ket": "Pekerjaan galian pondasi toilet",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003617"
+    },
+    {
+     "f": "2026-09-15-sanitari-datang-galian-toilet-se-3",
+     "ket": "Pekerjaan galian septic tank",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003621"
+    },
+    {
+     "f": "2026-09-15-sanitari-datang-galian-toilet-se-4",
+     "ket": "Proses pengacian buis beton",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003624"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-11",
+   "judul": "Listrik 1 phase terpasang",
+   "tahap": "Sipil",
+   "foto": [
+    {
+     "f": "2026-09-11-listrik-1-phase-terpasang-1",
+     "ket": "Listrik 1 phase sudah terpasang",
+     "w": 1204,
+     "h": 1600,
+     "src": "00003610"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-10",
+   "judul": "Pekerjaan sipil dimulai",
+   "tahap": "Sipil",
+   "poin": [
+    "Tim sipil mulai bekerja; direncanakan bertahap hingga 8 orang.",
+    "Tim sumur mulai bekerja Senin, 14 September.",
+    "Sekat toilet diputuskan memakai PVC board finishing HPL."
+   ],
+   "foto": [
+    {
+     "f": "2026-09-10-pekerjaan-sipil-dimulai-1",
+     "ket": "Kondisi awal tampak depan saat survei, pintu harmonika tertutup",
+     "w": 1600,
+     "h": 2133,
+     "src": "00003559"
+    },
+    {
+     "f": "2026-09-10-pekerjaan-sipil-dimulai-2",
+     "ket": "Mulai pembongkaran dinding menuju area toilet lama",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003580"
+    },
+    {
+     "f": "2026-09-10-pekerjaan-sipil-dimulai-3",
+     "ket": "Dinding dibongkar, area toilet lama kini terbuka",
+     "w": 1600,
+     "h": 1200,
+     "src": "00003606"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-09-08",
+   "judul": "Meeting RAB toilet & render tahap 1",
+   "tahap": "RAB",
+   "poin": [
+    "Render interior tahap 1 (30 halaman) dikirim.",
+    "Tinggi kusen pintu diubah dari 2,2 m menjadi 2 m.",
+    "Pintu depan dipertahankan dan ditambah rolling door.",
+    "RAB toilet belum termasuk sumber air bersih baru."
+   ],
+   "foto": []
+  },
+  {
+   "tanggal": "2026-08-31",
+   "judul": "Kondisi gedung sebelum renovasi",
+   "tahap": "Survei",
+   "isi": "Foto kondisi awal gedung (bekas arena bowling) saat survei dan marking: aula besar dengan rangka atap baja, partisi lama sudah ditandai untuk dibongkar.",
+   "foto": [
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-1",
+     "ket": "Kondisi awal tampak depan bangunan sebelum renovasi",
+     "w": 1600,
+     "h": 900,
+     "src": "00003479"
+    },
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-2",
+     "ket": "Kondisi awal interior: aula luas dengan meja bar lama",
+     "w": 720,
+     "h": 1280,
+     "src": "00003535"
+    },
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-3",
+     "ket": "Kondisi awal aula utama yang masih kosong",
+     "w": 1280,
+     "h": 720,
+     "src": "00003536"
+    },
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-4",
+     "ket": "Kondisi awal area depan dekat jendela, lantai sudah ditandai",
+     "w": 1280,
+     "h": 720,
+     "src": "00003538"
+    },
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-5",
+     "ket": "Kondisi awal struktur atap baja dan aula utama",
+     "w": 1280,
+     "h": 720,
+     "src": "00003539"
+    },
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-6",
+     "ket": "Kondisi awal ruang dalam dengan bekas meja bar",
+     "w": 1280,
+     "h": 720,
+     "src": "00003543"
+    },
+    {
+     "f": "2026-08-31-kondisi-gedung-sebelum-renovasi-7",
+     "ket": "Partisi lama ditandai 'bongkar' sebelum pekerjaan dimulai",
+     "w": 1280,
+     "h": 720,
+     "src": "00003546"
+    }
+   ]
+  },
+  {
+   "tanggal": "2026-08-17",
+   "judul": "Spesifikasi toilet & lokasi septic tank baru",
+   "tahap": "Desain",
+   "isi": "Septic tank baru dibuat untuk toilet belakang & toilet CEO karena yang lama tidak cukup untuk ±250 orang; skemanya dibuat agar kalau satu mampet, yang lain tidak ikut. Spesifikasi tiap toilet disepakati (lihat Keputusan).",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-08-16",
+   "judul": "Usulan area teks & quote dinding",
+   "tahap": "Desain",
+   "isi": "Arsitek mengirim usulan titik teks dan quote untuk dinding kantor, termasuk Wall of SVO.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-08-14",
+   "judul": "Meeting finalisasi visual & koordinasi teknis",
+   "tahap": "Desain",
+   "isi": "Meeting online membahas finalisasi visual interior setelah revisi terakhir, titik listrik, AC, lampu, plumbing & pekerjaan sipil, serta desain fasad depan.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-07-25",
+   "judul": "Render interior pertama dikirim",
+   "tahap": "Desain",
+   "isi": "Render interior pertama dikirim, disusul video render pada 27 Juli. Revisi dibahas lewat beberapa meeting online.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-07-11",
+   "judul": "Survei & pengukuran detail lokasi",
+   "tahap": "Desain",
+   "isi": "Tim arsitek mengukur detail gedung, lalu membuat model 3D kondisi eksisting dan 3D interior sesuai layout baru.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-07-09",
+   "judul": "SPK desain interior disepakati",
+   "tahap": "Desain",
+   "isi": "Surat perjanjian kerja (SPK) desain interior dengan PT HWG Arsitek disepakati setelah meeting bersama tim leader pada 8 Juli.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-07-06",
+   "judul": "Alternatif layout & revisi pertama",
+   "tahap": "Desain",
+   "isi": "Arsitek mengirim alternatif layout. Revisi dari SVO antara lain: gudang ditiadakan, ruang meeting kecil disebar agar tidak padat, ruang co-direksi ditiadakan, ukuran ruang dicantumkan. Pemilik gedung mulai mengosongkan area bowling lama.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-07-01",
+   "judul": "Moodboard interior",
+   "tahap": "Desain",
+   "isi": "Arsitek mengirim moodboard (contoh gaya interior) yang dinilai cocok dengan bangunan baru.",
+   "foto": []
+  },
+  {
+   "tanggal": "2026-06-30",
+   "judul": "Kick-off desain interior",
+   "tahap": "Desain",
+   "isi": "Grup proyek dengan PT HWG Arsitek dibuat; notulensi meeting pertama dikirim.",
+   "foto": []
+  }
+ ]
+}

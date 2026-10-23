@@ -1,0 +1,568 @@
+{
+ "judul": "Render Interior III",
+ "tanggal": "2026-10-19",
+ "kredit": "PT HWG Arsitek Indonesia",
+ "area": [
+  {
+   "no": "01",
+   "nama": "Entrance",
+   "slug": "entrance",
+   "gambar": [
+    {
+     "f": "entrance-1",
+     "hal": 2,
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "f": "entrance-2",
+     "hal": 3,
+     "w": 1575,
+     "h": 1050
+    },
+    {
+     "f": "entrance-3",
+     "hal": 4,
+     "w": 1575,
+     "h": 1050
+    }
+   ]
+  },
+  {
+   "no": "02",
+   "nama": "Area Panggung",
+   "slug": "panggung",
+   "gambar": [
+    {
+     "f": "panggung-1",
+     "hal": 5,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "panggung-2",
+     "hal": 6,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "03",
+   "nama": "Area Permainan",
+   "slug": "permainan",
+   "gambar": [
+    {
+     "f": "panggung-2",
+     "hal": 7,
+     "w": 1600,
+     "h": 1081
+    }
+   ],
+   "catatan": "Render ini sama dengan Area Panggung 2/2 — satu sudut pandang yang memperlihatkan kedua area (sesuai PDF)."
+  },
+  {
+   "no": "04",
+   "nama": "Area Wall of SVO",
+   "slug": "wall-of-svo",
+   "gambar": [
+    {
+     "f": "wall-of-svo-1",
+     "hal": 8,
+     "w": 1575,
+     "h": 1050
+    },
+    {
+     "f": "wall-of-svo-2",
+     "hal": 9,
+     "w": 1575,
+     "h": 1050
+    }
+   ]
+  },
+  {
+   "no": "05",
+   "nama": "Area HRD & Finance",
+   "slug": "hrd-finance",
+   "gambar": [
+    {
+     "f": "hrd-finance-1",
+     "hal": 10,
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "f": "hrd-finance-2",
+     "hal": 11,
+     "w": 1600,
+     "h": 1067
+    }
+   ]
+  },
+  {
+   "no": "06",
+   "nama": "Dapur",
+   "slug": "dapur",
+   "gambar": [
+    {
+     "f": "dapur-1",
+     "hal": 12,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "dapur-2",
+     "hal": 13,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "dapur-3",
+     "hal": 14,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "dapur-4",
+     "hal": 15,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "07",
+   "nama": "Area Makan Indoor",
+   "slug": "makan-indoor",
+   "gambar": [
+    {
+     "f": "makan-indoor-1",
+     "hal": 16,
+     "w": 1575,
+     "h": 1050
+    },
+    {
+     "f": "makan-indoor-2",
+     "hal": 17,
+     "w": 1575,
+     "h": 1050
+    },
+    {
+     "f": "makan-indoor-3",
+     "hal": 18,
+     "w": 1575,
+     "h": 1050
+    }
+   ]
+  },
+  {
+   "no": "08",
+   "nama": "Area Makan Outdoor",
+   "slug": "makan-outdoor",
+   "gambar": [
+    {
+     "f": "makan-outdoor-1",
+     "hal": 19,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "makan-outdoor-2",
+     "hal": 20,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "makan-outdoor-3",
+     "hal": 21,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "09",
+   "nama": "Area Santai Timur",
+   "slug": "santai-timur",
+   "gambar": [
+    {
+     "f": "santai-timur-1",
+     "hal": 22,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "santai-timur-2",
+     "hal": 23,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "10",
+   "nama": "Corner Content Hijau",
+   "slug": "content-hijau",
+   "gambar": [
+    {
+     "f": "santai-timur-1",
+     "hal": 24,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "santai-timur-2",
+     "hal": 25,
+     "w": 1600,
+     "h": 1081
+    }
+   ],
+   "catatan": "Render ini sama dengan Area Santai Timur — kedua area berada di satu sudut pandang (sesuai PDF)."
+  },
+  {
+   "no": "11",
+   "nama": "Corner Content Pink",
+   "slug": "content-pink",
+   "gambar": [
+    {
+     "f": "content-pink-1",
+     "hal": 26,
+     "w": 1575,
+     "h": 1050
+    },
+    {
+     "f": "content-pink-2",
+     "hal": 27,
+     "w": 1575,
+     "h": 1050
+    }
+   ]
+  },
+  {
+   "no": "12",
+   "nama": "Area Rak Buku Musholla",
+   "slug": "rak-buku-musholla",
+   "gambar": [
+    {
+     "f": "rak-buku-musholla-1",
+     "hal": 28,
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "f": "rak-buku-musholla-2",
+     "hal": 29,
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "f": "rak-buku-musholla-3",
+     "hal": 30,
+     "w": 1600,
+     "h": 1067
+    }
+   ]
+  },
+  {
+   "no": "13",
+   "nama": "Workstation",
+   "slug": "workstation",
+   "gambar": [
+    {
+     "f": "workstation-1",
+     "hal": 31,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "workstation-2",
+     "hal": 32,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "workstation-3",
+     "hal": 33,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "workstation-4",
+     "hal": 34,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "14",
+   "nama": "Lorong Ruang Host",
+   "slug": "lorong-host",
+   "gambar": [
+    {
+     "f": "lorong-host-1",
+     "hal": 35,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "lorong-host-2",
+     "hal": 36,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "15",
+   "nama": "Ruang Meeting Besar",
+   "slug": "meeting-besar",
+   "gambar": [
+    {
+     "f": "meeting-besar-1",
+     "hal": 37,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "meeting-besar-2",
+     "hal": 38,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "meeting-besar-3",
+     "hal": 39,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "meeting-besar-4",
+     "hal": 40,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "meeting-besar-5",
+     "hal": 41,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "meeting-besar-6",
+     "hal": 42,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "16",
+   "nama": "Ruang Kreatif",
+   "slug": "ruang-kreatif",
+   "gambar": [],
+   "catatan": "Render untuk area ini belum ada di Render Interior III."
+  },
+  {
+   "no": "17",
+   "nama": "Ruang CEO",
+   "slug": "ruang-ceo",
+   "gambar": [
+    {
+     "f": "ruang-ceo-1",
+     "hal": 43,
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "f": "ruang-ceo-2",
+     "hal": 44,
+     "w": 1600,
+     "h": 1067
+    }
+   ]
+  },
+  {
+   "no": "18",
+   "nama": "Ruang Loker CEO",
+   "slug": "loker-ceo",
+   "gambar": [],
+   "catatan": "Render untuk area ini belum ada di Render Interior III."
+  },
+  {
+   "no": "19",
+   "nama": "Ruang Toilet CEO",
+   "slug": "toilet-ceo",
+   "gambar": [
+    {
+     "f": "toilet-ceo-1",
+     "hal": 45,
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "f": "toilet-ceo-2",
+     "hal": 46,
+     "w": 1600,
+     "h": 1066
+    }
+   ]
+  },
+  {
+   "no": "20",
+   "nama": "Toilet Laki-laki",
+   "slug": "toilet-pria",
+   "gambar": [
+    {
+     "f": "toilet-pria-1",
+     "hal": 47,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "toilet-pria-2",
+     "hal": 48,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "toilet-pria-3",
+     "hal": 49,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "toilet-pria-4",
+     "hal": 50,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "21",
+   "nama": "Toilet Perempuan",
+   "slug": "toilet-wanita",
+   "gambar": [
+    {
+     "f": "toilet-wanita-1",
+     "hal": 51,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "toilet-wanita-2",
+     "hal": 52,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "toilet-wanita-3",
+     "hal": 53,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "toilet-wanita-4",
+     "hal": 54,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "22",
+   "nama": "Musholla",
+   "slug": "musholla",
+   "gambar": [
+    {
+     "f": "musholla-1",
+     "hal": 55,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "musholla-2",
+     "hal": 56,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "musholla-3",
+     "hal": 57,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "23",
+   "nama": "Area Wudhu",
+   "slug": "wudhu",
+   "gambar": [
+    {
+     "f": "wudhu-1",
+     "hal": 58,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "wudhu-2",
+     "hal": 59,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "wudhu-3",
+     "hal": 60,
+     "w": 1600,
+     "h": 1081
+    },
+    {
+     "f": "wudhu-4",
+     "hal": 61,
+     "w": 1600,
+     "h": 1081
+    }
+   ]
+  },
+  {
+   "no": "24",
+   "nama": "R. Meeting Kecil Utara",
+   "slug": "meet-kecil-utara",
+   "gambar": [
+    {
+     "f": "meet-kecil-utara-1",
+     "hal": 62,
+     "w": 1575,
+     "h": 1050
+    },
+    {
+     "f": "meet-kecil-utara-2",
+     "hal": 63,
+     "w": 1600,
+     "h": 1066
+    }
+   ]
+  },
+  {
+   "no": "25",
+   "nama": "R. Meeting Kecil Selatan",
+   "slug": "meet-kecil-selatan",
+   "gambar": [
+    {
+     "f": "meet-kecil-selatan-1",
+     "hal": 64,
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "f": "meet-kecil-selatan-2",
+     "hal": 65,
+     "w": 1600,
+     "h": 1066
+    }
+   ]
+  }
+ ]
+}
