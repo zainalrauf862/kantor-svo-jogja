@@ -360,8 +360,23 @@
    "no": "16",
    "nama": "Ruang Kreatif",
    "slug": "ruang-kreatif",
-   "gambar": [],
-   "catatan": "Render untuk area ini belum ada di Render Interior III."
+   "gambar": [
+    {
+     "f": "ruang-kreatif-1",
+     "hal": null,
+     "w": 1600,
+     "h": 1081,
+     "baru": "2026-10-23"
+    },
+    {
+     "f": "ruang-kreatif-2",
+     "hal": null,
+     "w": 1600,
+     "h": 1082,
+     "baru": "2026-10-23"
+    }
+   ],
+   "catatan": "Render baru, ditambahkan arsitek 23 Oktober 2026."
   },
   {
    "no": "17",
@@ -386,8 +401,16 @@
    "no": "18",
    "nama": "Ruang Loker CEO",
    "slug": "loker-ceo",
-   "gambar": [],
-   "catatan": "Render untuk area ini belum ada di Render Interior III."
+   "gambar": [
+    {
+     "f": "loker-ceo-1",
+     "hal": null,
+     "w": 1600,
+     "h": 1081,
+     "baru": "2026-10-23"
+    }
+   ],
+   "catatan": "Render baru, ditambahkan arsitek 23 Oktober 2026."
   },
   {
    "no": "19",
@@ -564,5 +587,6 @@
     }
    ]
   }
- ]
+ ],
+ "tambahan": "Ruang Kreatif & Ruang Loker CEO ditambahkan 23 Oktober 2026 (dari folder Drive Render III)."
 }

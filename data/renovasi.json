@@ -48,8 +48,8 @@
    {
     "nama": "Interior & furnitur",
     "status": "persiapan",
-    "sekarang": "Render Interior III (19 Okt)",
-    "detail": "Beberapa ruang kecil masih proses render · granit lantai sudah dipesan (3 Okt)"
+    "sekarang": "Render interior lengkap untuk 25 area",
+    "detail": "Render Ruang Kreatif & Ruang Loker CEO menyusul 23 Okt · granit lantai sudah dipesan (3 Okt)"
    }
   ]
  },
@@ -93,6 +93,14 @@
   }
  ],
  "entri": [
+  {
+   "tanggal": "2026-10-23",
+   "judul": "Render Ruang Kreatif & Ruang Loker CEO",
+   "tahap": "Desain",
+   "isi": "Arsitek menambahkan 3 render ke folder Render III: Ruang Kreatif (2) dan Ruang Loker CEO (1). Sekarang semua 25 area sudah punya render.",
+   "link": "desain",
+   "foto": []
+  },
   {
    "tanggal": "2026-10-22",
    "judul": "Toilet laki-laki masuk tahap cat",

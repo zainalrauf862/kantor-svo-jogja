@@ -345,6 +345,8 @@ button.meter:hover{background:var(--surface-2)}
 .area-h .no{font-size:13px;font-weight:800;color:var(--muted);font-variant-numeric:tabular-nums}
 .area-h h3{font-size:17px;font-weight:700}
 .area-h small{color:var(--muted);font-size:13px;margin-left:auto;white-space:nowrap}
+.new-tag{display:inline-block;background:var(--s2);color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;padding:1px 6px;border-radius:999px;vertical-align:1px}
+.thumb .badge.new{left:auto;right:8px;background:var(--s2)}
 .area-note{margin:-6px 0 10px;font-size:12.5px;color:var(--muted)}
 .gal{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 @media (min-width:700px){.gal{grid-template-columns:repeat(3,1fr);gap:10px}}
@@ -1081,9 +1083,10 @@ function renderDesain(){
     '<div class="eyebrow">' + esc(DS.judul) + " · " + tglPanjang(DS.tanggal).replace(/^\w+, /, "") + "</div>" +
     '<h2 id="t-desain-h" style="font-size:22px;margin-top:4px">Desain kantor baru</h2>' +
     '<p class="lead">' + total + " render untuk " + withImg + " area. Ketuk gambar untuk melihat ukuran penuh, geser untuk pindah gambar.</p>" +
+    (DS.tambahan ? '<p class="area-note" style="margin:8px 0 0"><span class="new-tag">Baru</span> ' + esc(DS.tambahan) + "</p>" : "") +
   "</div>" +
   '<div class="area-bar"><div class="area-nav" id="areaNav" role="group" aria-label="Lompat ke area">' + DS.area.map(function(a){
-      return a.gambar.length ? '<button type="button" data-area="' + a.slug + '">' + esc(a.nama) + ' <span class="n">' + a.gambar.length + "</span></button>"
+      return a.gambar.length ? '<button type="button" data-area="' + a.slug + '">' + esc(a.nama) + ' <span class="n">' + a.gambar.length + "</span>" + (a.gambar.some(function(g){ return g.baru; }) ? '<span class="new-tag">Baru</span>' : "") + "</button>"
         : '<button type="button" disabled title="Belum ada render">' + esc(a.nama) + ' <span class="n">belum ada</span></button>';
     }).join("") + "</div></div>" +
   DS.area.map(function(a){
@@ -1093,7 +1096,7 @@ function renderDesain(){
       (a.catatan && n ? '<p class="area-note">' + esc(a.catatan) + "</p>" : "") +
       (n ? '<div class="gal' + (n === 1 ? " solo" : n === 2 ? " big" : "") + '">' + a.gambar.map(function(g, i){
         var idx = k++;
-        return '<button type="button" class="thumb" data-lb="desain" data-i="' + idx + '" aria-label="Buka ' + esc(a.nama) + ", render " + (i + 1) + " dari " + n + '"><img src="img/desain/' + g.f + '-640.webp" srcset="' + srcset("img/desain/", g.f) + '" sizes="' + (n === 1 ? "(min-width:1100px) 700px, (min-width:700px) 64vw, 100vw" : n === 2 ? "(min-width:1100px) 520px, (min-width:700px) 48vw, 100vw" : "(min-width:1100px) 360px, (min-width:700px) 33vw, 50vw") + '" width="' + g.w + '" height="' + g.h + '" loading="lazy" decoding="async" alt="' + esc(a.nama + ", render " + (i + 1)) + '">' + (n > 1 ? '<span class="badge">' + (i + 1) + "/" + n + "</span>" : "") + "</button>";
+        return '<button type="button" class="thumb" data-lb="desain" data-i="' + idx + '" aria-label="Buka ' + esc(a.nama) + ", render " + (i + 1) + " dari " + n + '"><img src="img/desain/' + g.f + '-640.webp" srcset="' + srcset("img/desain/", g.f) + '" sizes="' + (n === 1 ? "(min-width:1100px) 700px, (min-width:700px) 64vw, 100vw" : n === 2 ? "(min-width:1100px) 520px, (min-width:700px) 48vw, 100vw" : "(min-width:1100px) 360px, (min-width:700px) 33vw, 50vw") + '" width="' + g.w + '" height="' + g.h + '" loading="lazy" decoding="async" alt="' + esc(a.nama + ", render " + (i + 1)) + '">' + (n > 1 ? '<span class="badge">' + (i + 1) + "/" + n + "</span>" : "") + (g.baru ? '<span class="badge new">Baru</span>' : "") + "</button>";
       }).join("") + "</div>" : '<div class="missing">' + esc(a.catatan || "Render untuk area ini belum ada.") + "</div>") +
     "</div>";
   }).join("");
