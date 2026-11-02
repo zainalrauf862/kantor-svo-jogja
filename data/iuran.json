@@ -1,5 +1,5 @@
 {
- "posisi_data": "2026-10-23",
+ "posisi_data": "2026-11-02",
  "target": 1900000000,
  "subsidi_kantor": {
   "nominal": 275000000,
@@ -777,6 +777,24 @@
    "tanggal": "2026-10-23",
    "nama": "Althaf Taqifthin Putra Samadi",
    "nominal": 10000000,
+   "keterangan": ""
+  },
+  {
+   "tanggal": "2026-11-01",
+   "nama": "Aldi Alfian",
+   "nominal": 52000000,
+   "keterangan": "Pelunasan · dari transfer Rp57 jt (Rp5 jt untuk Humam)"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "nama": "Zaenaful Humam (Hummam)",
+   "nominal": 5000000,
+   "keterangan": "Dibayarkan oleh Aldi Alfian (bagian dari transfer Rp57 jt)"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "nama": "Ade Wahidin",
+   "nominal": 17500000,
    "keterangan": ""
   }
  ],
