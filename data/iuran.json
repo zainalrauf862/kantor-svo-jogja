@@ -1,5 +1,5 @@
 {
- "posisi_data": "2026-11-02",
+ "posisi_data": "2026-11-10",
  "target": 1900000000,
  "subsidi_kantor": {
   "nominal": 275000000,
@@ -796,6 +796,12 @@
    "nama": "Ade Wahidin",
    "nominal": 17500000,
    "keterangan": ""
+  },
+  {
+   "tanggal": "2026-11-10",
+   "nama": "Rahmadi Fandu Prassetia",
+   "nominal": 25000000,
+   "keterangan": "Pembayaran ke-3 · pelunasan"
   }
  ],
  "_cek_dari_md": {
